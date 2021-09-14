@@ -36,6 +36,7 @@
   (^ taken 9th graders out)
   
   ![type_aN.png](Resources/type_aN.png)
+  
   (^ with 9th graders scores)
  
  
