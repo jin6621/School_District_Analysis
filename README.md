@@ -24,6 +24,7 @@
   - Scores by School size: It seems seems like all the average scores, and passing rates are almost the same. There is no significant differences.
 
   ![school_size_NaN.png](Resources/school_size_NaN.png)
+  
   (^ taken 9th graders out)
   
   ![school_size_aN.png](Resources/school_size_aN.png)
