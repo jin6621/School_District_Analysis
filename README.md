@@ -9,11 +9,13 @@
   - There is actually a big difference when taking 9th graders' scores out of the dataset. The overall passing percentage dropped from 90.95% to 65.08%.
 
 
-![NaN_school_summary.png](Resources/NaN_school_summary.png)
+![NaN_school_summary.png](Resources/NaN_school_summary.png) 
+
 (^ taken 9th graders out)
 
 
-![aN_school_summary.png](Resources/aN_school_summary.png)
+![aN_school_summary.png](Resources/aN_school_summary.png) 
+
 (with 9th graders scores)
 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
@@ -23,11 +25,12 @@
   - Scores by school spending: Same as this one. Only the cell where 9th graders' reading score from Thomas High School were taken out of dataset (NaN.)
   - Scores by School size: It seems seems like all the average scores, and passing rates are almost the same. There is no significant differences.
 
-  ![school_size_NaN.png](Resources/school_size_NaN.png)
+  ![school_size_NaN.png](Resources/school_size_NaN.png) 
   
   (^ taken 9th graders out)
   
-  ![school_size_aN.png](Resources/school_size_aN.png)
+  ![school_size_aN.png](Resources/school_size_aN.png) 
+  
   (^ with 9th graders scores)
   
   - Scores by school type: With both of the comparisons, it does not seem like dropping THS 9th graders' scores affacts too much of the overall data categorized by school types. 
