@@ -33,7 +33,8 @@
   - Scores by school type: With both of the comparisons, it does not seem like dropping THS 9th graders' scores affacts too much of the overall data categorized by school types. 
 
   
-    ![type_NaN.png](Resources/type_NaN.png)
+    ![type_NaN.png](Resources/type_NaN.png) 
+    
   (^ taken 9th graders out)
   
   ![type_aN.png](Resources/type_aN.png)
